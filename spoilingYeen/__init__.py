@@ -1,0 +1,1 @@
+# Ce fichier rend le dossier 'spoilingYeen' importable comme un package
